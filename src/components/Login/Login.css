@@ -43,6 +43,12 @@
     ;
     font-size: 21px;
     border: none;
+    cursor: pointer;
+}
+
+.form-submit:hover {
+    background-color: rgba(255, 153, 0, 0.7);
+    transition: 0.5s;
 }
 
 .link-signup {
